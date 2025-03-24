@@ -1,12 +1,13 @@
-# DSA.cpp
-🚀 Welcome to the DSA in C++ Repository! 🚀  
-This repository is a comprehensive collection of Data Structures and Algorithms (DSA) implemented in C++, designed to help learners, competitive programmers, and job seekers build a strong foundation in problem-solving.
+🚀DSA in C++ – My Learning Journey 🚀
 
-📌 What You’ll Find Here 
-1. Fundamental Data Structures: Arrays, Linked Lists, Stacks, Queues, Hash Maps, Trees, Graphs, Tries, Heaps, etc.
-2. Core Algorithms: Sorting, Searching, Recursion, Backtracking, Greedy, Divide & Conquer, Dynamic Programming, Graph Algorithms, etc.
-3. Optimized Solutions: Efficient implementations with clear explanations and comments.
-4. Interview Preparation: Common coding problems and solutions asked in top tech company interviews.
-5. Competitive Programming Resources: Techniques for problem-solving in coding contests.
+Welcome to my DSA in C++ repository! This is a personal space where I will be uploading code daily as I enhance my Data Structures and Algorithms (DSA) skills. The goal of this repository is to improve my coding proficiency, problem-solving abilities, and interview preparation by practicing regularly.
 
-🔗 Happy Coding! 🚀💻
+📌 What You’ll Find Here:
+
+✅ Daily DSA Practice – Consistent updates with new problems and solutions.
+✅ Fundamental Data Structures – Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, etc.
+✅ Core Algorithms – Sorting, Searching, Recursion, Dynamic Programming, Greedy, Graph Algorithms, and more.
+✅ Coding Interview Prep – Solutions to frequently asked interview questions.
+✅ Competitive Programming – Efficient problem-solving techniques for coding contests.
+
+🔗🎯 Happy Coding! 🚀💻
